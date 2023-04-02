@@ -684,7 +684,7 @@ footer {
 }
 .footer-button a {
   width: 100%;
-}
+  display: flex;
 @keyframes rev1 {
   100% {
     background: linear-gradient(90deg, #5f36da 3.79%, #7b49d2 100%);
